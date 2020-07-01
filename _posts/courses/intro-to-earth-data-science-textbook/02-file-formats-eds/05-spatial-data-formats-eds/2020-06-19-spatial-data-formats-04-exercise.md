@@ -8,7 +8,7 @@ class-lesson: ['spatial-data-formats']
 permalink: /courses/intro-to-earth-data-science/file-formats/use-spatial-data/file-formats-exercise/
 nav-title: "File Formats Exercise"
 dateCreated: 2020-06-20
-modified: 2020-06-26
+modified: 2020-07-01
 module-type: 'class'
 course: "intro-to-earth-data-science-textbook"
 week: 2
